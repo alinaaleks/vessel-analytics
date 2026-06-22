@@ -31,6 +31,7 @@ conda-env/
 # RAW DATA (IGNORE)
 # ----------------------
 data/raw/
+data/clean/
 
 # ----------------------
 # PROCESSED DATA (KEEP)
