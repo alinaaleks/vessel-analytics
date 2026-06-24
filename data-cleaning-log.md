@@ -105,8 +105,9 @@ System should support:
 
 - vessel profitability
 - project profitability
-- contract profitability
-- cost breakdown by type
-- time-based payment analysis
+- contract group profitability (supplier, shipping, agent)
+- individual contract profitability
+- inventory
+- remainder by contract to pay
 
 ---
