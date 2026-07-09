@@ -1,0 +1,140 @@
+contract_group_id,group_type,commodity,basis,loading_place,quality,needs_vessel_alloc,vessel_id,vessel_id_loose_manual
+1,фермер и сопутствующие,durum wheat,CPT,доставка в порт Тамань,"13,5 pro 75 vitr",True,,16
+2,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, ст. Нижненикитская",12 pro 30 vitr,True,,15
+3,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, с. Копытка","13,5 pro 75 vitr",True,,16
+4,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, х. Клюев","13,5 pro 75 vitr",True,,16
+5,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, с. Копытка","13,5 pro 75 vitr",True,,16
+6,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, с. Копытка","13,5 pro 80 vitr",True,,17
+7,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, ст. Дорофеевская",14 pro 80 vitr,True,,17
+8,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, х. Клюев",14 pro 80 vitr,True,,17
+9,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,14 pro 80 vitr,True,,17
+10,фермер и сопутствующие,durum wheat,CPT,доставка п. Кавказ,14 pro 80 vitr,True,,17
+11,фермер и сопутствующие,durum wheat,EXW,"Астраханская обл, ст. Колчанская","13,5 pro 80 vitr",True,,18
+12,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, ст. Нижненольная","13,5 pro 80 vitr",True,,18
+13,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, х. Сенной","13,5 pro 80 vitr",True,,18
+14,фермер и сопутствующие,durum wheat,EXW,"Астраханская обл, ст. Колчанская",14 pro 80 vitr,True,,18
+15,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, х. Клюев","13,5 pro 80 vitr",True,,18
+16,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, с. Солнечное",14 pro 80 vitr,True,,18
+17,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, с. Заречное","13,5 pro 80 vitr",True,,18
+18,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,12 pro 50 vitr,True,,19
+19,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, с. Дорфицкое",12 pro 30 vitr,True,,19
+20,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,12 pro 30 vitr,True,,19
+21,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,12 pro 30 vitr,True,,19
+22,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,12 pro 30 vitr,True,,19
+23,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, с. Забытое",14 pro 80 vitr,True,,14
+24,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,12 pro 50 vitr,True,,15
+25,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, х. Сенной",12 pro 30 vitr,True,,15
+26,фермер и сопутствующие,durum wheat,EXW,"Краснодарский край, ст. Богатяновская",12 pro 30 vitr,True,,15
+27,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, х. Жаркий",12 pro 30 vitr,True,,15
+28,фермер и сопутствующие,durum wheat,EXW,"Ростовская обл, с. Вязкое",12 pro 50 vitr,True,,15
+29,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, х. Сенной",12 pro 50 vitr,True,,15
+30,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, х. Знатный",14 pro 75 vitr,True,,14
+31,фермер и сопутствующие,durum wheat,EXW,"Краснодарский край, с. Ленное","13,5 pro 80 vitr",True,,13
+32,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,13 pro 65 vitr,True,,13
+33,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, с. Мельницкое",12 pro 75 vitr,True,,12
+34,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, с. Мельницкое",13 pro 65 vitr,True,,13
+35,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, ст. Дорофеевская",13 pro 65 vitr,True,,13
+36,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, ст. Дорофеевская","13,5 pro 75 vitr",True,,13
+37,фермер и сопутствующие,durum wheat,CPT,доставка в порт Новороссийск,13 pro 60 vitr,True,,13
+38,фермер и сопутствующие,durum wheat,CPT,доставка в порт речным судном,13 pro 65 vitr,True,,13
+39,фермер и сопутствующие,durum wheat,CPT,доставка в порт Новороссийск,13 pro 65 vitr,True,,13
+40,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,12 pro 60 vitr,True,,12
+41,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, х. Знатный",12 pro 65 vitr,True,,12
+42,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, х. Любимый",12 pro 65 vitr,True,,12
+43,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, х. Белый",13 pro 65 vitr,True,,12
+44,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,"12,5 pro 70 vitr",True,,12
+45,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, с. Новое",12 pro 55 vitr,True,,12
+46,фермер и сопутствующие,coriander,CPT,доставка в п. Ейск,"purity 98% min, moisture 10% max, foreign matter - 2% max, broken 5% max",True,,11
+47,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, с. Краснобульварное",12 pro 30 vitr,True,,10
+48,фермер и сопутствующие,linseed,EXW,"Волгоградская обл, с. Ушаковка","moisture (<10%), foreign matter (<1%)",True,,7
+49,фермер и сопутствующие,linseed,EXW,"Воронежская обл., с. Королевское","moisture (<10%), foreign matter (<1%)",True,,7
+50,фермер и сопутствующие,linseed,EXW,"Ростовская обл, ст. Богатяновская","moisture (<10%), foreign matter (<1%)",True,,7
+51,фермер и сопутствующие,linseed,EXW,"Саратовская обл, с. Красивое","moisture (<10%), foreign matter (<1%)",True,,7
+52,фермер и сопутствующие,linseed,EXW,"Ставропольский край, с. Англоязычное","moisture (<10%), foreign matter (<1%)",True,,7
+53,фермер и сопутствующие,wheat,EXW,"Ростовская обл, х. Тропический",11 pro 45 vitr,True,,8
+54,фермер и сопутствующие,sesame,EXW,"Саратовская обл, с. Этническое","moisture (<10%), foreign matter (<1%)",True,,9
+55,фермер и сопутствующие,sesame,EXW,"Оренбургская обл, ст. Новая","moisture (<10%), foreign matter (<1%)",True,,9
+56,фермер и сопутствующие,sesame,EXW,"Ростовская обл, х. Мартышевский","moisture (<10%), foreign matter (<1%)",True,,9
+57,фермер и сопутствующие,sesame,EXW,"Оренбургская обл, ст. Старая","moisture (<10%), foreign matter (<1%)",True,,9
+58,фермер и сопутствующие,sesame,EXW,"Оренбургская обл, х. Дорожный","moisture (<10%), foreign matter (<1%)",True,,9
+59,фермер и сопутствующие,sesame,EXW,"Воронежская обл, ст. Леонидовская","moisture (<10%), foreign matter (<1%)",True,,9
+60,фермер и сопутствующие,sesame,EXW,"Оренбургская обл, с. Богатяновское","moisture (<10%), foreign matter (<1%)",True,,9
+61,фермер и сопутствующие,durum wheat,EXW,"Волгоградская обл, с. Богатое","13,5 pro 70 vitr",True,,1
+62,фермер и сопутствующие,durum wheat,EXW,"Оренбургская обл, с. Жаркое","13,5 pro 75 vitr",True,,1
+63,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, с. Молниеносное","13,5 pro 70 vitr",True,,1
+64,фермер и сопутствующие,durum wheat,EXW,"Краснодарский край, с. Восточное",14 pro 80 vitr,True,,1
+65,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, с. Туманное","13,5 pro 70 vitr",True,,1
+66,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, с. Туманное","13,5 pro 75 vitr",True,,1
+67,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, с. Зерновое","13,5 pro 75 vitr",True,,1
+68,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,"13,5 pro 75 vitr",True,,1
+69,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,"12,5 pro 50 vitr",True,,1
+70,фермер и сопутствующие,durum wheat,EXW,"Ростовская обл, с. Зыбкое","13,5 pro 75 vitr",True,,1
+71,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,14 pro 80 vitr,True,,1
+72,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,"13,5 pro 70 vitr",True,,1
+73,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, с. Колючее","13,5 pro 75 vitr",True,,1
+74,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,"13,5 pro 75 vitr",True,,1
+75,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, х. Видный",14 pro 80 vitr,True,,1
+76,фермер и сопутствующие,durum wheat,EXW,"Ростовская обл, х. Зеленый","13,5 pro 75 vitr",True,,1
+77,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, х. Дальний","13,5 pro 75 vitr",True,,1
+78,фермер и сопутствующие,durum wheat,EXW,"Краснодарский край, с. Южное","13,5 pro 75 vitr",True,,1
+79,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, ст. Кальчуцкая","13,5 pro 75 vitr",True,,1
+80,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, х. Луцкий","13,5 pro 75 vitr",True,,1
+81,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,"13,5 pro 75 vitr",True,,1
+82,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, ст. Задворская","13,5 pro 75 vitr",True,,1
+83,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,"13,5 pro 75 vitr",True,,1
+84,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, с. Мельницкое","13,5 pro 75 vitr",True,,1
+85,фермер и сопутствующие,durum wheat,EXW,"Ростовская обл, с. Волнительное","13,5 pro 75 vitr",True,,1
+86,фермер и сопутствующие,durum wheat,EXW,"Краснодарский край, х. Ленина",14 pro 80 vitr,True,,1
+87,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,"13,5 pro 75 vitr",True,,1
+88,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,13 pro 70 vitr,True,,1
+89,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,13 pro 70 vitr,True,,1
+90,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,"13,5 pro 75 vitr",True,,1
+91,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, х. Клюев","12,5 pro 65 vitr",True,,20
+92,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,"13,5 pro 75 vitr",True,,20
+93,фермер и сопутствующие,durum wheat,CPT,склад с. Новое,"13,5 pro 75 vitr",True,,20
+94,покупатель,durum wheat,FOB,п. Азов,"13,5 pro 75 vitr",True,,1
+95,покупатель,linseed,FOB,п. Ростов-на-Дону,"moisture (<10%), foreign matter (<1%)",False,7,7
+96,покупатель,wheat,FOB,п. Азов,12 pro 70 vitr,False,8,8
+97,покупатель,sesame,FOB,п. Азов,"moisture (<10%), foreign matter (<1%)",False,9,9
+98,покупатель,durum wheat,FOB,п. Ростов-на-Дону,12 pro 30 vitr,False,10,10
+99,покупатель,coriander,FOB,п. Ейск,"purity 98% min, moisture 10% max, foreign matter - 2% max, broken 5% max",False,11,11
+100,покупатель,durum wheat,FOB,п. Новороссийск,12 pro 65 vitr,False,12,12
+101,покупатель,durum wheat,FOB,п. Новороссийск,13 pro 65 vitr,False,13,13
+102,покупатель,durum wheat,FOB,п. Азов,14 pro 80 vitr,False,14,14
+103,покупатель,durum wheat,FOB,п. Азов,12 pro 30 vitr,False,15,15
+104,покупатель,durum wheat,FOB,п. Тамань,"13,5 pro 75 vitr",False,16,16
+105,покупатель,durum wheat,FOB,п. Кавказ,14 pro 80 vitr,False,17,17
+106,покупатель,durum wheat,FOB,п. Азов,"13,5 pro 80 vitr",False,18,18
+107,покупатель,durum wheat,FOB,п. Азов,12 pro 30 vitr,False,19,19
+108,покупатель,durum wheat,FOB,п. Ейск,"13,5 pro 75 vitr",False,20,20
+109,расходы на судно,durum wheat,FOB,п. Кавказ,14 pro 80 vitr,False,17,17
+110,расходы на судно,durum wheat,FOB,п. Азов,"13,5 pro 80 vitr",False,18,18
+111,расходы на судно,durum wheat,FOB,п. Новороссийск,12 pro 65 vitr,False,12,12
+112,расходы на судно,durum wheat,FOB,п. Новороссийск,13 pro 65 vitr,False,13,13
+113,расходы на судно,durum wheat,FOB,п. Азов,14 pro 75 vitr,False,14,14
+114,расходы на судно,durum wheat,FOB,п. Азов,12 pro 30 vitr,False,15,15
+115,расходы на судно,durum wheat,FOB,п. Тамань,"13,5 pro 75 vitr",False,16,16
+116,расходы на судно,durum wheat,FOB,п. Азов,12 pro 30 vitr,False,19,19
+117,расходы на судно,durum wheat,FOB,п. Ейск,"13,5 pro 75 vitr",False,20,20
+118,фермер и сопутствующие,durum wheat,EXW,"Саратовская обл, ст. Дорофеевская",12 pro 30 vitr,True,,19
+119,покупатель,durum wheat,FOB,п. Ейск,11 pro 30 vitr,False,22,22
+120,покупатель,linseed,FOB,п. Ейск,"moisture (<10%), foreign matter (<1%)",False,21,21
+121,фермер и сопутствующие,durum wheat,EXW,Ставропольский край,12 pro 30 vitr,True,,19
+122,фермер и сопутствующие,linseed,CPT,склад с. Новое,"moisture (<10%), foreign matter (<1%)",True,,21
+123,фермер и сопутствующие,durum wheat,EXW,"Воронежская обл., с. Королевское",12 pro 30 vitr,True,,19
+124,расходы на судно,wheat,FOB,п. Азов,12 pro 50 vitr,False,8,8
+125,расходы на судно,durum wheat,FOB,п. Азов,"13,5 pro 75 vitr",False,5,1
+126,расходы на судно,durum wheat,FOB,п. Азов,"13,5 pro 75 vitr",False,4,1
+127,расходы на судно,durum wheat,FOB,п. Азов,"13,5 pro 75 vitr",False,6,1
+128,расходы на судно,durum wheat,FOB,п. Азов,"13,5 pro 75 vitr",False,1,1
+129,расходы на судно,durum wheat,FOB,п. Азов,"13,5 pro 75 vitr",False,2,1
+130,расходы на судно,durum wheat,FOB,п. Азов,"13,5 pro 75 vitr",False,3,1
+131,расходы на судно,linseed,FOB,п. Ростов-на-Дону,"moisture (<10%), foreign matter (<1%)",False,7,7
+132,расходы на судно,durum wheat,FOB,п. Ростов-на-Дону,12 pro 30 vitr,False,10,10
+133,косвенные расходы,not-applicable,not-applicable,not-applicable,not-applicable,True,,
+134,расходы на судно,coriander,FOB,п. Ейск,"purity 98% min, moisture 10% max, foreign matter - 2% max, broken 5% max",False,11,11
+135,расходы на судно,sesame,FOB,п. Азов,"moisture (<10%), foreign matter (<1%)",False,9,9
+136,расходы на судно,linseed,FOB,п. Ейск,"moisture (<10%), foreign matter (<1%)",False,21,21
+137,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, с. Зерновое","13,5 pro 75 vitr",True,,1
+138,фермер и сопутствующие,durum wheat,EXW,"Краснодарский край, ст. Богатяновская",14 pro 80 vitr,True,,20
+139,фермер и сопутствующие,durum wheat,EXW,"Ставропольский край, х. Вишневый","13,5 pro 75 vitr",True,,20

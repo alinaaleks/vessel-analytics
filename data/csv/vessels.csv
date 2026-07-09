@@ -1,0 +1,23 @@
+vessel_id,name,shipped_mt,loading_port,loading_date,discharge_port,project_id
+1,MV RIVER VOYAGER,6231.824639999999,Азов,2023-08-30,"Alexandria, Egypt",1
+2,NEVSKIY 214,5751.95973,Азов,2023-09-07,"Alexandria, Egypt",1
+3,LADOZHSKIY 109,3606.155039999999,Азов,2023-09-05,"Alexandria, Egypt",1
+4,VOLGO-DON 312,3357.4992,Ростов-на-Дону,2023-09-10,"Damietta, Egypt",1
+5,MV BLUE RIVER,6322.285839999999,Ейск,2023-09-05,"Damietta, Egypt",1
+6,Velibor Karelin,3292.92953,Ейск,2023-09-18,"Damietta, Egypt",1
+7,MV AURORA,3622.62215,Ростов-на-Дону,2023-12-18,"Gemlik, Turkey",2
+8,MV VENTURA,734.844,Азов,2024-02-04,"Iskenderun, Turkey",3
+9,MV GRACE,1903.4099700000002,Азов,2024-02-04,"Iskenderun, Turkey",4
+10,MV NORTH WIND,3678.8544100000004,Ростов-на-Дону,2024-04-20,"Tripoli, Lebanon",5
+11,MSC CATALINA XF106P,154.48960799999998,Ейск,2024-05-06,"Surabaya, Indonesia",6
+12,MV POLAR STAR,4430.836189999999,Новороссийск,2024-09-04,"Karasu, Turkey",7
+13,MV SILVER PEARL,6002.6095,Новороссийск,2024-09-07,"Karasu, Turkey",8
+14,MV OCEANA,3909.0799999999995,Азов,2024-10-13,"Alexandria, Egypt",9
+15,MV MERIDIAN,3960.3959999999997,Азов,2024-10-25,"Surabaya, Indonesia",10
+16,MV ATLANTIS,3589.6224100000004,Тамань,2024-10-28,"Surabaya, Indonesia",11
+17,MV POLARIS,6463.5740000000005,Кавказ,2024-11-16,"Alexandria, Egypt",12
+18,MV ORLINA,7746.90664,Азов,2024-11-27,"Beirut, Lebanon",13
+19,MV CEREAL ONE,5983.983120000002,Азов,2025-02-26,"Tripoli, Lebanon",14
+20,MV NEW SPACE,4910.82774,Ейск,2025-04-08,"Izmir, Turkey",15
+21,не-исполнен,0.0,Ейск,,,17
+22,не-исполнен,0.0,Ейск,,,16
