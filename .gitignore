@@ -33,6 +33,7 @@ conda-env/
 data/raw/
 data/clean/
 pj-drafts/
+~$*
 
 # ----------------------
 # PROCESSED DATA (KEEP)
