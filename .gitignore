@@ -32,7 +32,7 @@ conda-env/
 # ----------------------
 data/raw/
 data/clean/
-pj-drafts/
+pj_drafts/
 ~$*
 
 # ----------------------
